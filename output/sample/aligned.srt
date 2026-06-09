@@ -1,0 +1,543 @@
+1
+00:00:00,180 --> 00:00:00,320
+<font color="#00ff00">Every</font> night before bed a father would
+
+2
+00:00:00,320 --> 00:00:00,660
+Every <font color="#00ff00">night</font> before bed a father would
+
+3
+00:00:00,660 --> 00:00:01,040
+Every night <font color="#00ff00">before</font> bed a father would
+
+4
+00:00:01,040 --> 00:00:01,360
+Every night before <font color="#00ff00">bed</font> a father would
+
+5
+00:00:01,360 --> 00:00:01,860
+Every night before bed <font color="#00ff00">a</font> father would
+
+6
+00:00:01,860 --> 00:00:02,220
+Every night before bed a <font color="#00ff00">father</font> would
+
+7
+00:00:02,220 --> 00:00:02,360
+Every night before bed a father would
+
+8
+00:00:02,360 --> 00:00:02,460
+Every night before bed a father <font color="#00ff00">would</font>
+
+9
+00:00:02,460 --> 00:00:02,860
+<font color="#00ff00">stop</font> by his son's room to say goodnight.
+
+10
+00:00:02,860 --> 00:00:03,220
+stop <font color="#00ff00">by</font> his son's room to say goodnight.
+
+11
+00:00:03,220 --> 00:00:03,440
+stop by <font color="#00ff00">his</font> son's room to say goodnight.
+
+12
+00:00:03,440 --> 00:00:03,900
+stop by his <font color="#00ff00">son's</font> room to say goodnight.
+
+13
+00:00:03,900 --> 00:00:04,060
+stop by his son's <font color="#00ff00">room</font> to say goodnight.
+
+14
+00:00:04,060 --> 00:00:04,340
+stop by his son's room <font color="#00ff00">to</font> say goodnight.
+
+15
+00:00:04,340 --> 00:00:04,520
+stop by his son's room to <font color="#00ff00">say</font> goodnight.
+
+16
+00:00:04,520 --> 00:00:05,040
+stop by his son's room to say <font color="#00ff00">goodnight.</font>
+
+17
+00:00:05,740 --> 00:00:05,840
+<font color="#00ff00">It</font> was their tradition,
+
+18
+00:00:05,840 --> 00:00:06,000
+It <font color="#00ff00">was</font> their tradition,
+
+19
+00:00:06,000 --> 00:00:06,180
+It was <font color="#00ff00">their</font> tradition,
+
+20
+00:00:06,180 --> 00:00:06,630
+It was their <font color="#00ff00">tradition,</font>
+
+21
+00:00:07,460 --> 00:00:07,680
+<font color="#00ff00">one</font> he never missed.
+
+22
+00:00:07,680 --> 00:00:08,040
+one <font color="#00ff00">he</font> never missed.
+
+23
+00:00:08,040 --> 00:00:08,360
+one he <font color="#00ff00">never</font> missed.
+
+24
+00:00:08,360 --> 00:00:08,940
+one he never <font color="#00ff00">missed.</font>
+
+25
+00:00:09,620 --> 00:00:09,720
+<font color="#00ff00">His</font> son could never sleep well without it.
+
+26
+00:00:09,720 --> 00:00:10,200
+His <font color="#00ff00">son</font> could never sleep well without it.
+
+27
+00:00:10,200 --> 00:00:10,620
+His son <font color="#00ff00">could</font> never sleep well without it.
+
+28
+00:00:10,620 --> 00:00:10,980
+His son could <font color="#00ff00">never</font> sleep well without it.
+
+29
+00:00:10,980 --> 00:00:11,460
+His son could never <font color="#00ff00">sleep</font> well without it.
+
+30
+00:00:11,460 --> 00:00:11,880
+His son could never sleep <font color="#00ff00">well</font> without it.
+
+31
+00:00:11,880 --> 00:00:12,380
+His son could never sleep well <font color="#00ff00">without</font> it.
+
+32
+00:00:12,380 --> 00:00:12,600
+His son could never sleep well without <font color="#00ff00">it.</font>
+
+33
+00:00:13,620 --> 00:00:13,900
+<font color="#00ff00">Tonight</font> seemed no different.
+
+34
+00:00:13,900 --> 00:00:14,520
+Tonight <font color="#00ff00">seemed</font> no different.
+
+35
+00:00:14,520 --> 00:00:14,960
+Tonight seemed <font color="#00ff00">no</font> different.
+
+36
+00:00:14,960 --> 00:00:15,420
+Tonight seemed no <font color="#00ff00">different.</font>
+
+37
+00:00:16,240 --> 00:00:16,340
+<font color="#00ff00">The</font> room was dimly lit by a small bedside lamp,
+
+38
+00:00:16,340 --> 00:00:16,660
+The <font color="#00ff00">room</font> was dimly lit by a small bedside lamp,
+
+39
+00:00:16,660 --> 00:00:17,160
+The room <font color="#00ff00">was</font> dimly lit by a small bedside lamp,
+
+40
+00:00:17,160 --> 00:00:17,600
+The room was <font color="#00ff00">dimly</font> lit by a small bedside lamp,
+
+41
+00:00:17,600 --> 00:00:17,860
+The room was dimly <font color="#00ff00">lit</font> by a small bedside lamp,
+
+42
+00:00:17,860 --> 00:00:18,320
+The room was dimly lit <font color="#00ff00">by</font> a small bedside lamp,
+
+43
+00:00:18,320 --> 00:00:18,460
+The room was dimly lit by <font color="#00ff00">a</font> small bedside lamp,
+
+44
+00:00:18,460 --> 00:00:18,880
+The room was dimly lit by a <font color="#00ff00">small</font> bedside lamp,
+
+45
+00:00:18,880 --> 00:00:19,580
+The room was dimly lit by a small <font color="#00ff00">bedside</font> lamp,
+
+46
+00:00:19,580 --> 00:00:19,980
+The room was dimly lit by a small bedside <font color="#00ff00">lamp,</font>
+
+47
+00:00:20,780 --> 00:00:20,880
+<font color="#00ff00">but</font> as he stepped inside,
+
+48
+00:00:20,880 --> 00:00:21,020
+but <font color="#00ff00">as</font> he stepped inside,
+
+49
+00:00:21,020 --> 00:00:21,100
+but as <font color="#00ff00">he</font> stepped inside,
+
+50
+00:00:21,100 --> 00:00:21,380
+but as he <font color="#00ff00">stepped</font> inside,
+
+51
+00:00:21,380 --> 00:00:21,730
+but as he stepped <font color="#00ff00">inside,</font>
+
+52
+00:00:22,600 --> 00:00:22,960
+<font color="#00ff00">something</font>
+
+53
+00:00:23,120 --> 00:00:23,440
+<font color="#00ff00">felt</font> off.
+
+54
+00:00:23,440 --> 00:00:24,080
+felt <font color="#00ff00">off.</font>
+
+55
+00:00:24,980 --> 00:00:25,080
+<font color="#00ff00">His</font> son sat upright in bed,
+
+56
+00:00:25,080 --> 00:00:25,540
+His <font color="#00ff00">son</font> sat upright in bed,
+
+57
+00:00:25,540 --> 00:00:26,100
+His son <font color="#00ff00">sat</font> upright in bed,
+
+58
+00:00:26,100 --> 00:00:26,600
+His son sat <font color="#00ff00">upright</font> in bed,
+
+59
+00:00:26,600 --> 00:00:26,900
+His son sat upright <font color="#00ff00">in</font> bed,
+
+60
+00:00:26,900 --> 00:00:27,120
+His son sat upright in <font color="#00ff00">bed,</font>
+
+61
+00:00:27,760 --> 00:00:28,040
+<font color="#00ff00">silent,</font>
+
+62
+00:00:28,720 --> 00:00:28,920
+<font color="#00ff00">wearing</font> an impossibly wide grin.
+
+63
+00:00:28,920 --> 00:00:29,360
+wearing <font color="#00ff00">an</font> impossibly wide grin.
+
+64
+00:00:29,360 --> 00:00:29,980
+wearing an <font color="#00ff00">impossibly</font> wide grin.
+
+65
+00:00:29,980 --> 00:00:30,280
+wearing an impossibly <font color="#00ff00">wide</font> grin.
+
+66
+00:00:30,280 --> 00:00:30,580
+wearing an impossibly wide <font color="#00ff00">grin.</font>
+
+67
+00:00:31,540 --> 00:00:31,640
+<font color="#00ff00">You</font> okay, buddy?
+
+68
+00:00:31,640 --> 00:00:31,900
+You <font color="#00ff00">okay,</font> buddy?
+
+69
+00:00:31,900 --> 00:00:32,060
+You okay, buddy?
+
+70
+00:00:32,060 --> 00:00:32,120
+You okay, <font color="#00ff00">buddy?</font>
+
+71
+00:00:32,700 --> 00:00:32,760
+<font color="#00ff00">The</font> father asked.
+
+72
+00:00:32,760 --> 00:00:33,020
+The <font color="#00ff00">father</font> asked.
+
+73
+00:00:33,020 --> 00:00:33,320
+The father <font color="#00ff00">asked.</font>
+
+74
+00:00:34,040 --> 00:00:34,140
+<font color="#00ff00">The</font> boy slowly nodded, then he whispered,
+
+75
+00:00:34,140 --> 00:00:34,220
+The boy slowly nodded, then he whispered,
+
+76
+00:00:34,220 --> 00:00:34,460
+The <font color="#00ff00">boy</font> slowly nodded, then he whispered,
+
+77
+00:00:34,460 --> 00:00:34,960
+The boy <font color="#00ff00">slowly</font> nodded, then he whispered,
+
+78
+00:00:34,960 --> 00:00:35,400
+The boy slowly <font color="#00ff00">nodded,</font> then he whispered,
+
+79
+00:00:35,400 --> 00:00:35,860
+The boy slowly nodded, then he whispered,
+
+80
+00:00:35,860 --> 00:00:35,960
+The boy slowly nodded, <font color="#00ff00">then</font> he whispered,
+
+81
+00:00:35,960 --> 00:00:36,080
+The boy slowly nodded, then <font color="#00ff00">he</font> whispered,
+
+82
+00:00:36,080 --> 00:00:36,520
+The boy slowly nodded, then he <font color="#00ff00">whispered,</font>
+
+83
+00:00:37,460 --> 00:00:37,640
+<font color="#00ff00">Daddy,</font>
+
+84
+00:00:38,460 --> 00:00:38,560
+<font color="#00ff00">can</font> you check for monsters under my bed?
+
+85
+00:00:38,560 --> 00:00:38,680
+can <font color="#00ff00">you</font> check for monsters under my bed?
+
+86
+00:00:38,680 --> 00:00:39,000
+can you <font color="#00ff00">check</font> for monsters under my bed?
+
+87
+00:00:39,000 --> 00:00:39,240
+can you check <font color="#00ff00">for</font> monsters under my bed?
+
+88
+00:00:39,240 --> 00:00:39,720
+can you check for <font color="#00ff00">monsters</font> under my bed?
+
+89
+00:00:39,720 --> 00:00:40,240
+can you check for monsters <font color="#00ff00">under</font> my bed?
+
+90
+00:00:40,240 --> 00:00:40,460
+can you check for monsters under <font color="#00ff00">my</font> bed?
+
+91
+00:00:40,460 --> 00:00:40,760
+can you check for monsters under my <font color="#00ff00">bed?</font>
+
+92
+00:00:41,920 --> 00:00:42,020
+<font color="#00ff00">The</font> father smiled and knelt beside the bed.
+
+93
+00:00:42,020 --> 00:00:42,460
+The <font color="#00ff00">father</font> smiled and knelt beside the bed.
+
+94
+00:00:42,460 --> 00:00:42,980
+The father <font color="#00ff00">smiled</font> and knelt beside the bed.
+
+95
+00:00:42,980 --> 00:00:43,320
+The father smiled <font color="#00ff00">and</font> knelt beside the bed.
+
+96
+00:00:43,320 --> 00:00:43,600
+The father smiled and <font color="#00ff00">knelt</font> beside the bed.
+
+97
+00:00:43,600 --> 00:00:44,060
+The father smiled and knelt <font color="#00ff00">beside</font> the bed.
+
+98
+00:00:44,060 --> 00:00:44,400
+The father smiled and knelt beside <font color="#00ff00">the</font> bed.
+
+99
+00:00:44,400 --> 00:00:44,620
+The father smiled and knelt beside the <font color="#00ff00">bed.</font>
+
+100
+00:00:45,500 --> 00:00:45,600
+<font color="#00ff00">He</font> lifted the blanket and looked underneath,
+
+101
+00:00:45,600 --> 00:00:45,960
+He <font color="#00ff00">lifted</font> the blanket and looked underneath,
+
+102
+00:00:45,960 --> 00:00:46,180
+He lifted <font color="#00ff00">the</font> blanket and looked underneath,
+
+103
+00:00:46,180 --> 00:00:46,200
+He lifted the blanket and looked underneath,
+
+104
+00:00:46,200 --> 00:00:46,520
+He lifted the <font color="#00ff00">blanket</font> and looked underneath,
+
+105
+00:00:46,520 --> 00:00:46,760
+He lifted the blanket <font color="#00ff00">and</font> looked underneath,
+
+106
+00:00:46,760 --> 00:00:46,920
+He lifted the blanket and <font color="#00ff00">looked</font> underneath,
+
+107
+00:00:46,920 --> 00:00:47,460
+He lifted the blanket and looked <font color="#00ff00">underneath,</font>
+
+108
+00:00:48,780 --> 00:00:48,900
+<font color="#00ff00">and</font> there,
+
+109
+00:00:48,900 --> 00:00:49,260
+and <font color="#00ff00">there,</font>
+
+110
+00:00:50,160 --> 00:00:50,420
+<font color="#00ff00">curled</font> up in the darkness,
+
+111
+00:00:50,420 --> 00:00:50,620
+curled <font color="#00ff00">up</font> in the darkness,
+
+112
+00:00:50,620 --> 00:00:50,840
+curled up <font color="#00ff00">in</font> the darkness,
+
+113
+00:00:50,840 --> 00:00:50,960
+curled up in <font color="#00ff00">the</font> darkness,
+
+114
+00:00:50,960 --> 00:00:51,510
+curled up in the <font color="#00ff00">darkness,</font>
+
+115
+00:00:52,560 --> 00:00:52,660
+<font color="#00ff00">was</font> his son,
+
+116
+00:00:52,660 --> 00:00:52,820
+was <font color="#00ff00">his</font> son,
+
+117
+00:00:52,820 --> 00:00:53,200
+was his <font color="#00ff00">son,</font>
+
+118
+00:00:53,960 --> 00:00:54,260
+<font color="#00ff00">pale,</font>
+
+119
+00:00:54,820 --> 00:00:55,260
+<font color="#00ff00">shaking,</font>
+
+120
+00:00:55,960 --> 00:00:56,380
+<font color="#00ff00">terrified.</font>
+
+121
+00:00:57,520 --> 00:00:57,620
+<font color="#00ff00">The</font> boy looked up at him and whispered, Daddy,
+
+122
+00:00:57,620 --> 00:00:57,920
+The <font color="#00ff00">boy</font> looked up at him and whispered, Daddy,
+
+123
+00:00:57,920 --> 00:00:58,300
+The boy <font color="#00ff00">looked</font> up at him and whispered, Daddy,
+
+124
+00:00:58,300 --> 00:00:58,360
+The boy looked up at him and whispered, Daddy,
+
+125
+00:00:58,360 --> 00:00:58,480
+The boy looked <font color="#00ff00">up</font> at him and whispered, Daddy,
+
+126
+00:00:58,480 --> 00:00:58,660
+The boy looked up <font color="#00ff00">at</font> him and whispered, Daddy,
+
+127
+00:00:58,660 --> 00:00:58,840
+The boy looked up at <font color="#00ff00">him</font> and whispered, Daddy,
+
+128
+00:00:58,840 --> 00:00:59,260
+The boy looked up at him <font color="#00ff00">and</font> whispered, Daddy,
+
+129
+00:00:59,260 --> 00:00:59,820
+The boy looked up at him and <font color="#00ff00">whispered,</font> Daddy,
+
+130
+00:00:59,820 --> 00:01:00,240
+The boy looked up at him and whispered, Daddy,
+
+131
+00:01:00,240 --> 00:01:00,990
+The boy looked up at him and whispered, <font color="#00ff00">Daddy,</font>
+
+132
+00:01:02,360 --> 00:01:02,620
+<font color="#00ff00">there's</font> someone on my bed.
+
+133
+00:01:02,620 --> 00:01:03,040
+there's <font color="#00ff00">someone</font> on my bed.
+
+134
+00:01:03,040 --> 00:01:03,540
+there's someone <font color="#00ff00">on</font> my bed.
+
+135
+00:01:03,540 --> 00:01:03,780
+there's someone on <font color="#00ff00">my</font> bed.
+
+136
+00:01:03,780 --> 00:01:04,140
+there's someone on my <font color="#00ff00">bed.</font>

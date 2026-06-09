@@ -1,0 +1,12 @@
+[project]
+name = "forced-alignment"
+version = "0.1.0"
+description = "Forced alignment of ElevenLabs TTS audio files"
+requires-python = ">=3.11"
+dependencies = [
+    "stable-ts",
+    "pydub",
+    "soundfile",
+    "numpy",
+    "tqdm",
+]
